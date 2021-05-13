@@ -1,0 +1,16 @@
+{
+  "name": "FizzbuzzWithTests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "FizzBuzz.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
