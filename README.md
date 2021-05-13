@@ -1,6 +1,6 @@
 # coding-challenges
 
-all of these folders are challenges that I've make for interviews and from tutorials, now I'll enumerate the ones that are from interview challenges and the ones that are from tutorials, for you to get to know what can you have in an interview.
+All of these folders are challenges that I've make for interviews and from tutorials, now I'll enumerate the ones that are from interview challenges and the ones that are from tutorials, for you to get to know what can you have in an interview.
 
 ### Interview Challenges
 
@@ -9,7 +9,7 @@ all of these folders are challenges that I've make for interviews and from tutor
     - MovingZeroToEnd
     - CountingAnagrams
 
-### Tutorial Challenges
+### Platforms/Tutorials Challenges
 
     - BigONotation
     - SimplePigLatin
