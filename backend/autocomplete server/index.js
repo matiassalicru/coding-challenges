@@ -4,7 +4,7 @@ const app = express();
 
 app.use(cors());
 
-const port = 4000;
+const port = 5000;
 
 var fs = require("fs");
 var dictionary = fs.readFileSync("/usr/share/dict/words").toString().split("\n");
