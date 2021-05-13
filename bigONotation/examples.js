@@ -37,7 +37,7 @@ const bubbleSort = (arr) => {
     console.log(arr);
 }
 
-bubbleSort(arr);
+// bubbleSort(arr);
 
 // O (log n)
 // Binary search
@@ -54,12 +54,12 @@ const binarySearch = (arr, num) => {
             console.log('true');
             return true;
         }
-        
+
         // If the number is on the right side of the array replace the *start* with the mid index of the array.
         else if (arr[mid] < num) {
             start = mid + 1;
 
-        // If the number is on the left side of the array replace the *end* with the mid index of the array.
+            // If the number is on the left side of the array replace the *end* with the mid index of the array.
         } else {
             end = mid - 1;
         }
@@ -69,4 +69,6 @@ const binarySearch = (arr, num) => {
     return false;
 }
 
-binarySearch(array, 34);
+// binarySearch(array, 34);
+
+
