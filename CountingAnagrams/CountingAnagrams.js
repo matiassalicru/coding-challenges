@@ -89,4 +89,5 @@ function CountingAnagrams(str) {
 }
 
 // keep this function call here
-console.log(CountingAnagrams(readline()));
+
+// console.log(CountingAnagrams(readline()));

@@ -1,3 +1,8 @@
+/*
+    Big O Notation se refiere a como se mide el tiempo de complejidad de un algoritmo.
+*/
+
+
 const arr = [7, 1, 3, 5];
 
 // O(1)

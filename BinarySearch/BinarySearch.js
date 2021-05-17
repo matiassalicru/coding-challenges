@@ -1,3 +1,10 @@
+/*
+
+    Binary Search es un tipo de búsqueda de números dentro de un array que se basa partiendo el array a la mitad
+    y buscando si el número que buscamos se encuentra entre la mitad mayor o menor. 
+
+*/
+
 const array = [1, 2, 3, 5, 7, 12, 34, 123, 150];
 
 const binarySearch = (arr, num) => {

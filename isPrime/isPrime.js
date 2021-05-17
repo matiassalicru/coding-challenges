@@ -1,3 +1,7 @@
+/*
+    Determina si un número es primo o compuesto.
+*/
+
 const isPrime = num => {
 
     for (let i = 2; i < num; i++) {

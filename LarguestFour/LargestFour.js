@@ -1,3 +1,8 @@
+/*
+  Función que retorna la suma de los 4 números más grandes del array, si el array tiene 4 
+  números o menos, retorna la suma de todos.
+*/
+
 function ArrayAdditionI(arr) {
   let largest = 0;
 

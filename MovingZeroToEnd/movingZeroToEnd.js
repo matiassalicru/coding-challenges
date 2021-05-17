@@ -1,4 +1,6 @@
-// Escriba un algoritmo que tome un array y mueva todos los ceros al final, perseverando el orden de los otros elementos
+/* 
+  Escriba un algoritmo que tome un array y mueva todos los ceros al final, perseverando el orden de los otros elementos
+*/
 
 // SOLUCIÓN 1
 var moveZeros = function (arr) {

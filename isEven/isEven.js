@@ -1,3 +1,9 @@
+/* 
+
+    Retorna los números pares dentro de un array pasado por parámetro.
+
+*/
+
 // O(n)
 function isEven(arr) {
     const evens = [];
